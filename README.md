@@ -1,4 +1,4 @@
-# Heterogeneous GDL Indoor Localization IPIN2022
+# HeteroGDL Indoor Localization IPIN2022
 
 This is the document for the code used in the following paper: 
 
