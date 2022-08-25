@@ -41,6 +41,8 @@ In this paper, two datasets are considered.
 2. `Petros`: [GitHub - pspachos/RSSI-Dataset-for-Indoor-Localization-Fingerprinting: RSSI dataset for Fingerprinting with Zigbee, BLE and WiFi](https://github.com/pspachos/RSSI-Dataset-for-Indoor-Localization-Fingerprinting) 
    
    <u>Paper</u>: S. Sadowski, P. Spachos, K. Plataniotis, "Memoryless Techniques and Wireless Technologies for Indoor Localization with the Internet of Things", *IEEE Internet of Things Journal*.
+   
+To run the code, please unzip the datasets above and specify the directories in `_config.py`
 
 ### 2.1 SoLoc
 
